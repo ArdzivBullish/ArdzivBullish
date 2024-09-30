@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ArdzivBullish
+- 👀 I’m interested in CyberSecurity Engineering
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on AquaSec and Kubernetes Security
+- 📫 How to reach me Slack: frederic.alex / Email: frederic.alex@bullish.com
+- 😄 Pronouns: Him
+- ⚡ Fun fact: I play wargames from Games Workshop (W40K) and I love painting figurines.
